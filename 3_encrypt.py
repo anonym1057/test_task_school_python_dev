@@ -29,7 +29,7 @@ def encrypt(string_to_encript:str,offset:int):
 
 def decrypt(string_to_encript:str,offset:int):
     """
-    Dencrypt text using a simple algorithm of offsetting 26 letters of English alphabet.
+    Decrypt text using a simple algorithm of offsetting 26 letters of English alphabet.
     :param string_to_encript: string for decrypt
     :param offset: offset for decrypt
     :return: encrypting string : str
